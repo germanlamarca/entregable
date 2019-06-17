@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">APP</string>
+    <string name="enterName">Enter your name</string>
+    <string name="enterLastName">Enter your last name</string>
+    <string name="enterWeb">Enter your web site</string>
+    <string name="enterTel">Enter your telephone number</string>
+    <string name="name">Name</string>
+    <string name="lastName">Last name</string>
+    <string name="web">Web</string>
+    <string name="tel">Telephone</string>
+    <string name="show">SHOW</string>
+    <string name="delete">DELETE</string>
+    <string name="empty">This field can not be void</string>
+    <string name="ok">Successfully created</string>
+    <string name="deleteAll">Do you want to remove all fields?</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+</resources>
